@@ -1,0 +1,63 @@
+[
+	{
+		"id": "D0001",
+		"dialogType": "Small Talk",
+    "dialogs": 
+    [
+      {
+        "name": "Injured Soldier",
+        "context": "Seraphim have abandoned us.",
+        "imgPath": "DialogImg/NPC0001"
+      },
+      { 
+        "name": "Lars",
+        "context": "They have always been.",
+        "imgPath": "DialogImg/Lars"
+      }      
+    ]
+	},
+  {
+    "id": "D0002",
+    "dialogType": "Small Talk",
+    "dialogs": 
+    [
+      {
+        "name": "Injured Soldier",
+        "context": "This town has been heavily destroyed by Imps, we don't know how much we can hold.",
+        "imgPath": "DialogImg/NPC0001"
+      },
+      {
+        "name": "Brann",
+        "context": "Those demons have no right to do that. Don't worry, I'll give them a lesson!",
+        "imgPath": "DialogImg/Brann"
+      },
+      {
+        "name": "Injured Soldier",
+        "context":  "I did saw them coming from the deep forest. Please see what you can do.",
+        "imgPath":  "DialogImg/NPC0001"
+      },
+      {
+        "name":  "Injured Soldier",
+        "context": "Our town is in your great hand. May Valor guides your path!",
+        "imgPath":  "DialogImg/NPC0001"
+      }
+    ]
+  },
+  {
+    "id": "D0003",
+    "dialogType": "Small Talk",
+    "dialogs": 
+    [
+      {
+        "name": "Injured Soldier",
+        "context": "Seraphim have lost and it's time for us human to face our Judgement.",
+        "imgPath": "DialogImg/NPC0001"
+      },
+      {
+        "name": "Agmund",
+        "context": "Shut your mouth you tiny whiny!",
+        "imgPath": "DialogImg/Agmund"
+      }
+    ]
+  }
+]

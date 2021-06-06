@@ -1,0 +1,21 @@
+[
+	{
+		"id": "M0001",
+		"sceneName": "M0001-Battle",
+		"sceneId": "1",
+		"minLv": 0,
+		"enemyIDs":
+		[
+		]
+	},
+    {
+      "id": "M0002",
+      "sceneName": "M0002-Main",
+      "sceneId": "2",
+      "minLv": 1,
+      "enemyIDs": [
+        "E0001",
+        "E0002"
+      ]
+    }
+]

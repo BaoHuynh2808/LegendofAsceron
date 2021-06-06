@@ -1,0 +1,17 @@
+[
+  {
+    "id": "SH0001",
+    "shopDialog": 
+    {
+      "name": "Injured Soldier",
+      "context": "So, what fined goods do you want?",
+      "imgPath": "DialogImg/NPC0001"
+    },
+    "shopItemIds": 
+	  [
+		"IW0001", "IW0002", "IW0003",
+		"IA0001", "IA0002", "IA0003", "IA0004", "IA0005",
+		"IU0001", "IU0002", "IU0003", "IU0004"
+	  ]
+  }
+]

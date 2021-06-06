@@ -1,0 +1,22 @@
+[
+	{
+		"key": "menu_continue",
+		"value": "Continue"
+	},
+	{
+		"key": "menu_newgame",
+		"value": "New Game"
+	},
+	{
+		"key": "menu_loadgame",
+		"value": "Load Game"
+	},
+	{
+		"key": "menu_options",
+		"value": "Options"
+	},
+	{
+		"key": "menu_exit",
+		"value": "Exit"
+	}
+]

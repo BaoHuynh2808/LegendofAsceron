@@ -1,0 +1,40 @@
+[
+	{
+		"id": "S0001",
+		"tooltips": "Deliver an upper cut slash that deal physical damage to 1 enemy.",
+		"isPassive": false,
+		"mpCost": 1,
+		"lvlRequirement": 1,
+		"target": 
+		[
+			"Enemy"
+		],
+		"type":
+		[
+			"Damage"
+		],
+		"power": 120,
+		"damageDuration": 1,
+		"buffDuration": 0,
+		"debuffDuration": 0
+	},
+	{
+		"id": "S0002",
+		"tooltips": "Create a big fire ball and throw at all enemies.",
+		"isPassive": false,
+		"mpCost": 3,
+		"lvlRequirement": 2,
+		"target": 
+		[
+			"Enemies"
+		],
+		"type":
+		[
+			"Damage"
+		],
+		"power": 60,
+		"damageDuration": 1,
+		"buffDuration": 0,
+		"debuffDuration": 0
+	}
+]

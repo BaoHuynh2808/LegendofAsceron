@@ -1,0 +1,163 @@
+[
+  {
+    "id": "C0001",
+    "name": "Lars",
+    "description": "Lorem Ipsum",
+    "race": "Humanoid",
+    "type": "Melee",
+    "stats": 
+	{
+      "level": 1,
+      "hp": 20,
+      "mp": 10,
+      "strength": 6,
+      "dexterity": 4,
+      "intelligence": 4,
+	  "vitality": 6,
+      "endurance": 6,
+      "wisdom": 4,
+	  "fireRes": 10.00,
+	  "lightningRes": 10.00,
+	  "iceRes": 10.00,
+	  "holyRes": -20.00,
+	  "darkRes": -10.00
+    },
+    "learnedSkills": 
+	[
+	],
+    "totalSkills": 
+	[
+		"S0001"
+	],
+    "growthStat": 
+	{
+      "level": 1,
+      "hp": 6,
+      "mp": 2,
+      "strength": 2,
+      "dexterity": 2,
+      "intelligence": 0,
+	  "vitality": 2,
+      "endurance": 0,
+      "wisdom": 0,
+	  "fireRes": 0.0,
+	  "lightningRes": 0.0,
+	  "iceRes": 0.0,
+	  "holyRes": 0.0,
+	  "darkRes": 0.0
+    },
+	"weaponID": "IW0001",
+    "armorIDs":
+    [
+    ],
+    "modelImgPath": "Characters/C0001_model",
+    "faceImgPath": "Characters/C0001_face"
+  },
+  {
+    "id": "C0002",
+    "name": "Agmund",
+    "description": "Lorem Ipsum",
+    "race": "Humanoid",
+    "type": "Melee",
+    "stats": 
+	{
+      "level": 1,
+      "hp": 30,
+      "mp": 6,
+      "strength": 4,
+      "dexterity": 3,
+      "intelligence": 5,
+	  "vitality": 7,
+      "endurance": 6,
+      "wisdom": 5,
+	  "fireRes": 0.00,
+	  "lightningRes": 0.00,
+	  "iceRes": 0.00,
+	  "holyRes": 0.00,
+	  "darkRes": 0.00
+    },
+    "learnedSkills": 
+	[
+	],
+    "totalSkills": 
+	[
+	],
+    "growthStat": 
+	{
+      "level": 1,
+      "hp": 7,
+      "mp": 2,
+      "strength": 1,
+      "dexterity": 1,
+      "intelligence": 0,
+	  "vitality": 3,
+      "endurance": 1,
+      "wisdom": 0,
+	  "fireRes": 0.0,
+	  "lightningRes": 0.0,
+	  "iceRes": 0.0,
+	  "holyRes": 0.0,
+	  "darkRes": 0.0
+    },
+	"weaponID": "IW0002",
+    "armorIDs":
+    [
+    ],
+    "modelImgPath": "Characters/C0002_model",
+    "faceImgPath": "Characters/C0002_face"
+  },
+  {
+    "id": "C0003",
+    "name": "Brann",
+    "description": "Lorem Ipsum",
+    "race": "Humanoid",
+    "type": "Range",
+    "stats": 
+	{
+      "level": 1,
+      "hp": 12,
+      "mp": 20,
+      "strength": 2,
+      "dexterity": 4,
+      "intelligence": 8,
+	  "vitality": 4,
+      "endurance": 4,
+      "wisdom": 8,
+	  "fireRes": 30.00,
+	  "lightningRes": 0.00,
+	  "iceRes": -30.00,
+	  "holyRes": 0.00,
+	  "darkRes": 0.00
+    },
+    "learnedSkills": 
+	[
+	],
+    "totalSkills": 
+	[
+		"S0002","S0003"
+	],
+    "growthStat": 
+	{
+      "level": 1,
+      "hp": 3,
+      "mp": 5,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 2,
+	  "vitality": 1,
+      "endurance": 0,
+      "wisdom": 1,
+	  "fireRes": 0.0,
+	  "lightningRes": 0.0,
+	  "iceRes": 0.0,
+	  "holyRes": 0.0,
+	  "darkRes": 0.0
+    },
+	"weaponID": "IW0003",
+    "armorIDs":
+    [ 
+    ],
+    "modelImgPath": "Characters/C0003_model",
+    "faceImgPath": "Characters/C0003_face"
+  }
+]

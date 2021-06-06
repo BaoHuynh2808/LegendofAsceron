@@ -1,0 +1,22 @@
+[
+  {
+    "id": "SE0001",
+    "selectionDialog": 
+    {
+      "name": "Injured Soldier",
+      "context": "...What do you want?",
+      "imgPath": "DialogImg/NPC0001"
+    },
+    "dialogType": [
+      "talk",
+	  "shop"
+    ],
+    "talkId": [
+      "D0001",
+      "D0002",
+      "D0003"
+    ],
+    "shopId": "SH0001",
+    "questId":  null
+  }
+]

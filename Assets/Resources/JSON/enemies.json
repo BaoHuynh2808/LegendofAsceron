@@ -1,0 +1,231 @@
+[
+  {
+    "id": "E0001",
+    "name": "Ghoul",
+    "description": "Lorem Ipsum",
+    "race": "Undead",
+    "type": "Melee",
+    "imgPath": "Enemy/E0001_face",
+    "facePath":"Enemy/E0001_model",
+    "stats": 
+	  {
+      "level": 1,
+      "hp": 30,
+      "mp": 0,
+      "strength": 3,
+      "dexterity": 2,
+      "intelligence": 1,
+      "vitality": 1,
+      "endurance": 1,
+      "wisdom": 1,
+      "fireRes": -20.00,
+      "lightningRes": 0.0,
+      "iceRes": 10.00,
+      "holyRes": -10.00,
+      "darkRes": 0.0
+    },
+    "skills": 
+  	[
+  	],
+    "totalSkills": 
+    [
+    ],
+    "growthStat": 
+	  {
+      "level": 1,
+      "hp": 5,
+      "mp": 2,
+      "strength": 0.75,
+      "dexterity": 0.25,
+      "intelligence": 0.1,
+      "vitality": 0.25,
+      "endurance": 0.2,
+      "wisdom": 0.2,
+      "fireRes": 0.0,
+      "lightningRes": 0.0,
+      "iceRes": 0.0,
+      "holyRes": 0.0,
+      "darkRes": 0.0
+    },
+    "baseReward": 
+	  {
+      "gold": 5,
+      "exp": 6,
+      "item": 
+      [
+        {
+          "itemID": "IA0001",
+          "procChance": 0.2
+        }
+      ]
+    },
+    "growthReward": 
+	  {
+      "gold": 2,
+      "exp": 2,
+      "item": 
+      [
+      ]
+    }
+  },
+  {
+    "id": "E0002",
+    "name": "Big Ghoul",
+    "description": "Lorem Ipsum",
+    "race": "Undead",
+    "type": "Melee",
+    "imgPath": "Enemy/E0002_face",
+    "facePath":"Enemy/E0002_model",
+    "stats": 
+    {
+      "level": 4,
+      "hp": 72,
+      "mp": 0,
+      "strength": 5,
+      "dexterity": 1,
+      "intelligence": 2,
+      "vitality": 5,
+      "endurance": 3,
+      "wisdom": 3,
+      "fireRes": -25.00,
+      "lightningRes": 0.0,
+      "iceRes": 20.00,
+      "holyRes": -5.00,
+      "darkRes": 0.0
+    },
+    "skills": 
+    [
+    ],
+    "totalSkills": 
+    [
+    ],
+    "growthStat": 
+    {
+      "level": 1,
+      "hp": 10,
+      "mp": 2.5,
+      "strength": 1.5,
+      "dexterity": 0.2,
+      "intelligence": 0.1,
+      "vitality": 1,
+      "endurance": 0.5,
+      "wisdom": 0.5,
+      "fireRes": 0.0,
+      "lightningRes": 0.0,
+      "iceRes": 0.0,
+      "holyRes": 0.0,
+      "darkRes": 0.0
+    },
+    "baseReward": 
+    {
+      "gold": 14,
+      "exp": 18,
+      "item": 
+      [
+        {
+          "itemID": "IW0001",
+          "procChance": 0.2
+        }
+      ]
+    },
+    "growthReward": 
+    {
+      "gold": 4,
+      "exp": 5,
+      "item": 
+      [
+      ]
+    }
+  },
+	{
+    "id": "E0003",
+    "name": "Gnax the Incubus",
+    "description": "Lorem Ipsum",
+    "race": "Undead",
+    "type": "Range",
+    "imgPath": "Enemy/E0003_face",
+    "facePath":"Enemy/E0003_model",
+    "stats": 
+	  {
+      "level": 10,
+      "hp": 300,
+      "mp": 100,
+      "strength": 20,
+      "dexterity": 8,
+      "intelligence": 12,
+      "vitality": 25,
+      "endurance": 15,
+      "wisdom": 15,
+      "fireRes": 10.00,
+      "lightningRes": 10.00,
+      "iceRes": 10.00,
+      "holyRes": -10.00,
+      "darkRes": 20.00
+    },
+    "skills": 
+    [
+    "S0002"
+    ],
+    "totalSkills": 
+  	[
+  	"S0002"
+  	],
+    "growthStat": 
+	  {
+      "level": 1,
+      "hp": 25,
+      "mp": 5,
+      "strength": 2,
+      "dexterity": 0.5,
+      "intelligence": 1,
+      "vitality": 1.5,
+      "endurance": 1,
+      "wisdom": 1,
+      "fireRes": 0.0,
+      "lightningRes": 0.0,
+      "iceRes": 0.0,
+      "holyRes": 0.0,
+      "darkRes": 0.0
+    },
+    "baseReward": 
+	  {
+      "gold": 100,
+      "exp": 150,
+      "item": 
+	    [
+        {
+          "itemID": "IA0001",
+          "procChance": 0.2
+        },
+        {
+          "itemID": "IA0002",
+          "procChance": 0.2
+        },
+        {
+          "itemID": "IW0001",
+          "procChance": 0.2
+        },
+        {
+          "itemID": "IU0001",
+          "procChance": 0.2
+        },
+        {
+          "itemID": "IA0003",
+          "procChance": 0.2
+        },
+        {
+          "itemID": "IW0002",
+          "procChance": 0.2
+        }
+      ]
+    },
+    "growthReward": 
+	  {
+      "gold": 15,
+      "exp": 10,
+      "item": 
+      [
+      ]
+    }
+  }
+]

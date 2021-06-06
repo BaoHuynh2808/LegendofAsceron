@@ -1,0 +1,50 @@
+[
+    {
+		"id": "IW0001",
+		"name": "Wooden Sword",
+		"lvlRequirement": 1,
+		"type": "Equipment",
+		"tooltips": "normal wooden sword, very low damage.",
+		"imgPath": "InventoryIcons/iw0001",
+		"gold": 5,
+		"ilvl": 1,
+		"rarity": "Common",
+		"modification": null,
+		"stats": null,
+		"wType": "Sword",
+		"patk": 5,
+		"matk": 0
+    },
+    {
+        "id": "IW0002",
+        "name": "Wooden Axe",
+        "lvlRequirement": 1,
+        "type": "Equipment",
+        "tooltips": "normal wooden axe, very low damage.",
+        "imgPath": "InventoryIcons/iw0002",
+		"gold": 7,
+        "ilvl": 1,
+        "rarity": "Common",
+        "modification": null,
+        "stats": null,
+        "wType": "Axe",
+        "patk": 7,
+        "matk": 0
+    },
+    {
+        "id": "IW0003",
+        "name": "Poor Grimoire",
+        "lvlRequirement": 1,
+        "type": "Equipment",
+        "tooltips": "normal grimoire, not very special.",
+        "imgPath": "InventoryIcons/iw0003",
+		"gold": 6,
+        "ilvl": 1,
+        "rarity": "Common",
+        "modification": null,
+        "stats": null,
+        "wType": "Grimoire",
+        "patk": 0,
+        "matk": 4
+    }
+]

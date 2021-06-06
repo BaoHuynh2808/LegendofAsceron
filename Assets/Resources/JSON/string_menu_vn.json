@@ -1,0 +1,22 @@
+﻿[
+	{
+		"key": "menu_continue",
+		"value": "Tiếp Tục"
+	},
+	{
+		"key": "menu_newgame",
+		"value": "Chơi Mới"
+	},
+	{
+		"key": "menu_loadgame",
+		"value": "Tải Game"
+	},
+	{
+		"key": "menu_options",
+		"value": "Tùy Chọn"
+	},
+	{
+		"key": "menu_exit",
+		"value": "Thoát"
+	}
+]
